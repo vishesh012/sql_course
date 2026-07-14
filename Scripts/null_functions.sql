@@ -1,0 +1,2 @@
+-- NULL FUNCTION
+-- ISNULL
